@@ -69,7 +69,7 @@ class _HomePageState extends State<HomePage> {
                           mainAxisAlignment: MainAxisAlignment.spaceEvenly,
                           children: <Widget>[
                             const SizedBox(
-                              height: 50,
+                              height: 2,
                             ),
                             Container(
                               padding: const EdgeInsets.all(10),
